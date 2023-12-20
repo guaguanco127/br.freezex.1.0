@@ -41,7 +41,7 @@ By saving your logic in an abstraction, you can create modules that can be used 
 
 1. Make sure you have Max/MSP 8 installed in your computer. And, make sure you are using a Max patch that is inside of a folder.  
 
-2. For the normal version of this abstraction, copy and paste br.freeze.abs.1.0.maxpat inside of the same folder as the Max patch you are using. 
+2. Copy and paste br.freeze.abs.1.0.maxpat inside of the same folder as the Max patch you are using. 
 
 3. Also, copy and paste the file called solofreeze.pfft into the same folder. If this file is already there, then there is no reason to copy and paste it. **The abstraction will not work without this file.**     
 

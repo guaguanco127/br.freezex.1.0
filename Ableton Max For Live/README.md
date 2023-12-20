@@ -41,11 +41,11 @@ Max For Live brings the power and flexibility of Max to Ableton Live. Max For Li
 2. For Macintosh:  
 Go to your user folder  
 Then Music > Ableton > User Library > Presets > Audio Effects  
-Copy and paste br.ufreezex.1.0.amxd into that folder
+Copy and paste br.freezex.1.0.amxd into that folder
 
 3. For Windows: \Users\[username]\Documents\Ableton\User Library\Presets\Audio Effects\Max Audio Effect  
 
-4. Also, copy and paste the file called solofreeze.pfft into the same folder. If this file is already there, then there is no reason to copy and paste it. **The abstraction will not work without this file.**    
+4. Also, copy and paste the file called solofreeze.pfft into the same folder. If this file is already there, then there is no reason to copy and paste it. **The device will not work without this file.**    
   
 5. Open Ableton Live. On the left-hand side, look for Max for Live > Max Audio Effect and then the name of this device.
 
