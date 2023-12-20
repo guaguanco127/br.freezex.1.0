@@ -16,7 +16,7 @@ These files were created with Max/MSP version 8.5.6.
 
 ## <a name="About"></a>About
 
-This is a spectral Max/MSP abstraction, and Ableton Max for Live device that allows the user to do a spectral freeze of a stereo signal. Additionally, a transient detector option is available. This contains all features available within the br.freeze.1.0 patches, except this version allows the user to crossfade into the next freeze betwee 50 ms and 10 seconds.
+This is a spectral Max/MSP abstraction, and Ableton Max for Live device that allows the user to do a spectral freeze of a stereo signal. Additionally, a transient detector option is available. This contains all features available within the br.freeze.1.0 patches, except this version allows the user to crossfade into the next freeze between 50 ms and 10 seconds.
 
 Currently works in any sample rate or bit depth.
 
