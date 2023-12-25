@@ -2357,6 +2357,7 @@
 			}
 , 			{
 				"box" : 				{
+					"activeneedlecolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"id" : "obj-19",
 					"maxclass" : "live.dial",
 					"numinlets" : 1,
@@ -2367,6 +2368,14 @@
 					"presentation" : 1,
 					"presentation_rect" : [ -1.5, 109.0, 65.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
+						"activeneedlecolor" : 						{
+							"expression" : ""
+						}
+,
+						"textcolor" : 						{
+							"expression" : ""
+						}
+,
 						"valueof" : 						{
 							"parameter_exponent" : 2.0,
 							"parameter_initial" : [ 2500 ],
@@ -2381,12 +2390,14 @@
 
 					}
 ,
+					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"varname" : "live.dial[1]"
 				}
 
 			}
 , 			{
 				"box" : 				{
+					"activeneedlecolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"id" : "obj-17",
 					"maxclass" : "live.dial",
 					"numinlets" : 1,
@@ -2397,6 +2408,14 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 55.5, 109.0, 65.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
+						"activeneedlecolor" : 						{
+							"expression" : ""
+						}
+,
+						"textcolor" : 						{
+							"expression" : ""
+						}
+,
 						"valueof" : 						{
 							"parameter_initial" : [ 0.5 ],
 							"parameter_initial_enable" : 1,
@@ -2409,6 +2428,7 @@
 
 					}
 ,
+					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"varname" : "live.dial"
 				}
 
@@ -2489,6 +2509,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 4.0, 50.0, 58.0, 20.0 ],
 					"text" : "Retrigger",
+					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"textjustification" : 1
 				}
 
@@ -2677,6 +2698,24 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 34.0, 319.0, 30.0, 30.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"angle" : 270.0,
+					"bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
+					"bordercolor" : [ 0.0, 0.0, 0.0, 1.0 ],
+					"id" : "obj-3",
+					"maxclass" : "panel",
+					"mode" : 0,
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 200.333333373069763, 297.0, 128.0, 128.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ -0.5, 0.0, 282.87837815284729, 169.0 ],
+					"proportion" : 0.39,
+					"rounded" : 0
 				}
 
 			}
