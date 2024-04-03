@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 5,
-			"revision" : 6,
+			"revision" : 7,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 124.0, 145.0, 130.0, 177.0 ],
+		"rect" : [ -90.0, -962.0, 127.0, 163.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -50,7 +50,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 5,
-							"revision" : 6,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -145,7 +145,7 @@
 										"appversion" : 										{
 											"major" : 8,
 											"minor" : 5,
-											"revision" : 6,
+											"revision" : 7,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -1228,7 +1228,7 @@
 										"appversion" : 										{
 											"major" : 8,
 											"minor" : 5,
-											"revision" : 6,
+											"revision" : 7,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -1495,7 +1495,7 @@
 										"appversion" : 										{
 											"major" : 8,
 											"minor" : 5,
-											"revision" : 6,
+											"revision" : 7,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -2588,7 +2588,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "Transient Detect (int) 0 = off 1 = on",
+					"comment" : "Transient Detect Sensitivity (float) 0. - 1.0",
 					"id" : "obj-24",
 					"index" : 0,
 					"maxclass" : "inlet",
@@ -2601,7 +2601,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "Mix Modes, 0 = insert, 1 = gate",
+					"comment" : "Transient Detect (int) 0 = off 1 = on",
 					"id" : "obj-25",
 					"index" : 0,
 					"maxclass" : "inlet",
